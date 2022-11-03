@@ -1,0 +1,4 @@
+framework module EuvicMobileSDK {
+  header "EuvicMobileSDK-Swift.h"
+  requires objc
+}
