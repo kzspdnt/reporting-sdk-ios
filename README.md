@@ -1,4 +1,4 @@
-# Euvic SDK iOS
+# Euvic Mobile SDK iOS
 
 ## Installation
 
@@ -14,7 +14,7 @@ Once you have your Swift package set up, adding EuvicMobileSDK as a dependency i
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Clickonometrics/reporting-sdk-ios.git", .upToNextMajor(from: "0.1.0"))
+    .package(url: "https://github.com/Clickonometrics/reporting-sdk-ios.git", .upToNextMajor(from: "0.2.0"))
 ]
 ```
 
