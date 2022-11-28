@@ -188,3 +188,5 @@ Represents a product instance
 | `price` | String | represents products value | Required |
 | `currency` | String | represents products price currency | Optional |
 | `quantity` | String | depending on type of event, it can represents added, removed or in basket quantity of the product | Required |
+
+
