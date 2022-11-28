@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name = "EuvicMobileSDK"
-    s.version = "0.2.0"
+    s.version = "0.2.2"
     s.summary = "A description of EuvicMobileSDK project."
     s.description = "EuvicMobileSDK a reporting library made for iOS devices."
     s.homepage = "https://github.com/Clickonometrics/reporting-sdk-ios"
